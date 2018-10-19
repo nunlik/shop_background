@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sb_contants" />
+        <module name="sb_control" />
+        <module name="sb_dao" />
+        <module name="sb_pojo" />
+        <module name="sb_service" />
+        <module name="sb_template" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sb_contants" target="1.8" />
+      <module name="sb_control" target="1.7" />
+      <module name="sb_dao" target="1.8" />
+      <module name="sb_pojo" target="1.8" />
+      <module name="sb_service" target="1.8" />
+      <module name="sb_template" target="1.7" />
+      <module name="shop_background_parents" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

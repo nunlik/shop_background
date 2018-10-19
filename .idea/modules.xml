@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sb_contants/sb_contants.iml" filepath="$PROJECT_DIR$/sb_contants/sb_contants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb_control/sb_control.iml" filepath="$PROJECT_DIR$/sb_control/sb_control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb_dao/sb_dao.iml" filepath="$PROJECT_DIR$/sb_dao/sb_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb_pojo/sb_pojo.iml" filepath="$PROJECT_DIR$/sb_pojo/sb_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb_service/sb_service.iml" filepath="$PROJECT_DIR$/sb_service/sb_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sb_template/sb_template.iml" filepath="$PROJECT_DIR$/sb_template/sb_template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_background_parents.iml" filepath="$PROJECT_DIR$/shop_background_parents.iml" />
+    </modules>
+  </component>
+</project>

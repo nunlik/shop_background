@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sb_service:war">
+    <output-path>$PROJECT_DIR$/sb_service/target</output-path>
+    <root id="archive" name="shop_background.war">
+      <element id="artifact" artifact-name="sb_service:war exploded" />
+    </root>
+  </artifact>
+</component>
